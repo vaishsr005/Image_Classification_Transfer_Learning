@@ -19,7 +19,7 @@ This Python workbook is focused on a machine learning project that involves clas
 
 **Result**
 ------------
-- Cuurently, this model has a predictive accuracy of 72.5%.
+- Currently, this model has a predictive accuracy of 72.5%.
 
 **Libraries and Tools**
 -----------------------
