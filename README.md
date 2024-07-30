@@ -2,7 +2,7 @@
 
 **Overview**
 ------------
-This Python workbook is focused on a machine learning project that involves classifying images of ants and bees. The primary objective is to develop a neural network model capable of accurately distinguishing between images of ants and bees.
+This Python project is focused on a machine learning project that involves classifying images of ants and bees. The primary objective is to develop a neural network model capable of accurately distinguishing between images of ants and bees.
 
 **Approach**
 ---------------
