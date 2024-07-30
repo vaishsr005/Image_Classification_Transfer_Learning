@@ -28,10 +28,6 @@ This Python workbook is focused on a machine learning project that involves clas
 - **NumPy**: For numerical computations and handling image data.
 - **Matplotlib**: For visualizing the images and results.
 
-**Usage**
---------
-This workbook is intended for machine learning practitioners, data scientists, and anyone interested in image classification projects. It provides a step-by-step approach to developing a neural network model, from loading and preprocessing images to training and evaluating the model.
-
 **Conclusion**
 --------------
 By leveraging the power of neural networks and image processing libraries, this project aims to deliver an effective solution for classifying images of ants and bees. The techniques demonstrated in this workbook can be extended to other image classification tasks, making it a valuable resource for similar projects.
