@@ -19,7 +19,7 @@ This Python project is focused on a machine learning project that involves class
 
 **Result**
 ------------
-- Currently, this model has a predictive accuracy of 72.5%.
+- This model has a predictive accuracy of 92.5%, Precision is 92.69% and F1 Score is 0.9253.
 
 **Libraries and Tools**
 -----------------------
